@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Masomo School Management System
 
 A PHP and MySQL school course enrollment app with student accounts, an administrator dashboard, and KSh 1 M-Pesa checkout. Tailwind CSS is loaded from its CDN, so the browser needs internet access to render the styled interface.
@@ -48,3 +49,6 @@ Set `MPESA_CALLBACK_URL` in `.env` to the HTTPS ngrok URL followed by `/MasomoSc
 - Keep `.env` private; it is excluded from Git. Never put provider secrets in frontend code.
 - The app uses hashed passwords, role checks, CSRF tokens, prepared statements, and server-side payment verification.
 - Serve the app over HTTPS in production and use a strong unique administrator password.
+=======
+# MasomoSchool
+>>>>>>> origin/main
